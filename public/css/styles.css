@@ -1,0 +1,9 @@
+.movie{
+    width: 290px;
+}
+.movie > p{
+    height: 72px;
+}
+.button{
+    width: 290px;
+}
